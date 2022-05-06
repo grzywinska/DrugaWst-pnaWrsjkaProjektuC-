@@ -23,3 +23,4 @@ CUSTOMER:
 -CheckAvilabilityOfRoom
 -MakePayment
 -FillFeedbackForm
+HUJJ MI NIE IDZIE
